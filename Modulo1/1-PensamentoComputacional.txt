@@ -1,0 +1,20 @@
+Pilares:
+	1) Decomposição - quebra de tarefas difíceis em tarefas menores, mais fáceis e mais lógicas.
+
+	2) Reconhecimento de Padrões - extrair características para classificar os dados,
+		Começa a partir de reconhecimento de modelos e utilização destes para repetição;
+
+		2.1) Machine Learning - treinamento de máquina para reconhecimento de Padrões.
+				Etapas: Representação de atributos
+						Aprendizado (conceito do objeto)
+							Armazenamento de Dados
+								Regras de decisão.
+
+	3) Abstração (tirar a propriedade)
+		O objetivo da abstração é generalizar através das características essenciais para criar modelos.
+
+	4)Algoritmos (Principal Pilar)
+		Sequência lógica de passos e tarefas que visam resolver um problema específico.
+			Etapas: Instrução detalhada "step by step"
+					Algoritmo
+						Programas.
