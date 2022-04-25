@@ -1,0 +1,26 @@
+Blob:  comentário mais básico (alteração)
+
+Tree: contém vários BLOBS e pode até apontar para outras TREES
+
+Commit: da significado às alterações feitas em um programa, código ou documento. (Inclui no repositório local)
+	Contém: Tree;
+		  Parente;
+		  Autor;
+		  Mensagem;
+		  TimeStamp.
+
+
+COMANDOS ÚTEIS:
+	git init = inicia o repositório
+	git add . = adiciona as alterações para o "Staged"
+	git commit = envia as alterações da área staged para o repositório local;
+	git status = passa a situação do repositório local;
+	git restore --"Staged" <nome do arquivo> = remove o arquivo da área staged;
+	git config --list = mostra todas as informações contidas na máquina atual;
+
+
+	git remote add origin <colar o link do repositório remot> = envia o repositório local para um remoto;
+	git remote -v = mostra os repositórios remotos contidos dentro da pasta atual;
+	
+	git push origin main - aponta o push para o main
+	git push - envia os commits;
