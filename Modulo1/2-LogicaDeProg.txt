@@ -1,0 +1,12 @@
+Lógica deve estar atrelada à "Pensar como você pensa" ou Metacognição.
+
+	Algoritmo: sequência de passos para resolver um problema
+
+	Pseudocódigo: forma genérica de se fazer um algoritmo usando uma linguagem natural.
+
+	Fluxograma = ferramenta para representar graficamente um algoritmo
+
+
+	Variável - objeto na memória destinado a um dado (pode ser alterada)
+		tipos primitivos: numéricas / Caracteres / Lógicos / Alfanuméricos;
+	
