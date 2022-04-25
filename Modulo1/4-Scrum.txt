@@ -1,0 +1,33 @@
+O software é contruido em partes (de forma incremental).
+
+Escopo dentro da metodologia ágil é definido ao longo do projeto, sendo o projeto controlado por funcionalidades entregues e melhorado por constante feedback do cliente, que já ve
+seu funcionamento desde a fase inicial do projeto.
+	- Ser ágil é diferente de ser rápido.
+		rapidez na mudança e desembaraço;
+		reduzir a complexidade e aumentar a simplicidade;
+		compromisso com objetivos;
+		maior valor para o cliente;
+
+Os pilares do SCRUM são:
+	1) Transparência
+	2) Adaptação
+	3) Inspeção
+
+	É necessário ter em mente também que os requisitos mudam, devemos buscar o feedback de forma constante, conversar + e escrever -
+	e aprender progressivamente com o uso do software.
+
+
+As pessoas envolvidas em um projeto construido com metodolofia ágil são:
+	PO (Product Owner) - é quem prioriza o backlog e representa a área de negócios;
+	SMI (Scrum Master) - auxilia a equipe com o uso correto do SCRUM;
+	Time DEV - desenha, constrói e entrega o software funcionando.
+
+
+Cerimônia do SCRUM
+	TIME BOX = tempo máximo de uma cerimônia ou SPRINT;
+	SPRINT = principal evento do SCRUM (30 dias ou menos);
+		PLANEJAMENTO = (PO, SMI, DEV) - 4h para O QUE FAZER e 4h para COMO FAZER;
+		REVISÕES DIÁRIAS = (PO, SMI, DEV) - 15 minutos;
+		REVISÃO DA SPRINT = (PO e DEV) - ocorre ao final da SPRINT, dura 4h;
+		RETROSPECTIVA (DEV) = visa obtenção de feedback para melhoria, baseado em transparência (3h).
+
