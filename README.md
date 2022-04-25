@@ -1,6 +1,5 @@
 # Repositório do desafio de projeto sobre Git/GitHub
-Desafio de Projeto sobre Git e GiHub.
-
+Repositório visando o compartilhamento do meu progresso.
 
 ## Links úteis 
 [Documentation](https://git-scm.com/docs/git-help);
